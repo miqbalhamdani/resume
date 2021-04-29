@@ -1,0 +1,26 @@
+- profile:
+  initials: IH
+  name: Iqbal Hamdani
+  profession: Frontend Engineer
+  image: images/profile.jpg
+  location: Jakarta
+  relocation: true
+  company: Misteraladin
+  for_hire: true
+  focus: Learning ReactJS
+  focus_url: https://www.iqbalhamdani.id/category/code/
+  about: |
+    Innovative Front End Developer with 2 years experience building and maintaining responsive websites in the travel industry and 1 year in e-commerce. Proficient in HTML, CSS, jQuery, JavaScript, and Vue; plus modern libraries and frameworks. Passionate about the design system.
+  skills:
+    - JavaScript
+    - VueJS
+    - Laravel
+  tools:
+    - Express
+    - Lumen
+    - Git
+  budget:
+    currency: $
+    min: 5
+    max: 30
+    default: 10
